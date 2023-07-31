@@ -1,6 +1,6 @@
 {
   "name": "eone-hihi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learning how to publish a Package to NPM. This particular package has commands that greet you in different languages.",
   "main": "index.js",
   "scripts": {

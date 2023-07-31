@@ -1,24 +1,24 @@
-function hiEnglish(name) {
+function hiEnglish () {
     return 'Hello :D' 
 }
 
-function hiRussian(name) {
+function hiRussian() {
     return 'Привет :D' 
 }
 
-function hiFrench(name) {
+function hiFrench() {
     return 'Bonjour :D' 
 }
 
-function hiSpanish(name) {
+function hiSpanish() {
     return 'Hola :D' 
 }
 
-function hiChinese(name) {
+function hiChinese() {
     return 'Nǐ hǎo :D' 
 }
 
-function hiItalian(name) {
+function hiItalian() {
     return 'Ciao :D' 
 }
 
