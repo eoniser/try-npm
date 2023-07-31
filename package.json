@@ -1,0 +1,20 @@
+{
+  "name": "eone-hihi",
+  "version": "1.0.0",
+  "description": "Learning how to publish a Package to NPM. This particular package has commands that greet you in different languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eoniser/try-npm.git"
+  },
+  "author": "eone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eoniser/try-npm/issues"
+  },
+"homepage": "https://github.com/eoniser/try-npm"
+
+}
